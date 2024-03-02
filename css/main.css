@@ -165,7 +165,7 @@ footer{
     margin-top: 20px;
   }
 
-  .banner{height: 380px; display: flex; flex-direction: column;}
+  .banner{height: fit-content; display: flex; flex-direction: column;}
 
   .nav{
     display: flex;
