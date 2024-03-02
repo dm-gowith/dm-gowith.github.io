@@ -20,7 +20,7 @@ main{
 
 .banner{
   border: solid 1px white;
-  height: 250px;
+  height: fit-content;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -28,7 +28,6 @@ main{
   margin-top: 5%;
   border-radius: 10px;
   color: white;
-  overflow: scroll;
 }
 
 .desc{
