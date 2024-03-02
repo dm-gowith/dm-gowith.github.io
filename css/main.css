@@ -220,6 +220,15 @@ footer{
   vertical-align: middle;
 }
 
+.btnLT{
+  width: 200px;
+}
+
+.imgLT{
+  width: 20%;
+  vertical-align: middle;
+}
+
 .download{
   font: 400 32px Spartan, sans-serif;
   color: white;
@@ -236,6 +245,10 @@ footer{
 }
 
 .googleIco{
+  vertical-align: middle;
+}
+
+.ltIco{
   vertical-align: middle;
 }
 
